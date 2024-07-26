@@ -1,0 +1,28 @@
+/* .tag1{
+    color: red;
+}
+.tagfont{
+    font-size: 100px;
+}
+.tag2{
+    color: blue;
+} */
+
+
+/* #tag1{
+    color: red;
+} */
+
+/* margin */
+
+.box{
+    width:500px;
+    height: 500px;
+    background-color: steelblue;
+}
+
+.box2{
+    width:100px;
+    height: 100px;
+    background-color: orange;
+}
